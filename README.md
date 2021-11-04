@@ -1,2 +1,2 @@
-# stuff
-Pizza fan 6992 website
+# My website
+Note this isn't the finished product, but its gonna get an update soon. This was made in a rush btw.
